@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kiko Ciriaca</h1>
-<h3 align="center">🎓 Computer Science Student passionate about building impactful, user-centered applications. 💡 CEO & Founder of Arkiel Technologies — a startup software tech company focused on creating innovative digital solutions. 🎨 Graphic Designer with a keen eye for visual storytelling and brand identity.</h3>
+<h3 align="center">🎓 Computer Science student passionate about creating impactful, user-centered applications. 💡 CEO & Founder of Arkiel Technologies, a startup dedicated to innovative digital solutions. 🎨 Graphic Designer with a sharp eye for visual storytelling and brand identity.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kikosaur&label=Profile%20views&color=0e75b6&style=flat" alt="kikosaur" /> </p>
 
